@@ -1,0 +1,49 @@
+* {
+    font-family: 'Open Sans', serif;
+}
+
+.register {
+    background-color: #FFFEFE;
+}
+
+.register h1 {
+    font-weight: 600;
+    font-size: 36px;
+    color: #333333;
+}
+
+.login-link {
+    font-size: 18px;
+}
+
+.login-link p {
+    color: #666666;
+}
+
+.login-link a {
+    color: #089FE0;
+}
+
+.company-name {
+    font-size: 16px;
+    color: #333333;
+    font-weight: 600;
+}
+
+form input {
+    background-color: #F5F5F5;
+}
+
+form button {
+    color: #ffffff;
+    background-color: #089FE0;
+}
+
+.agree-section {
+    font-size: 14px;
+    color: #666666;
+}
+
+.agree-section label a {
+    color: #089FE0;
+}
